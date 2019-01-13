@@ -28,3 +28,6 @@ process the image displaying the number of fingers shown.
 ### Contributors:
 ##### 1) [Sumegh Roychowdhury](https://github.com/Sumegh-git/)
 ##### 2) [Sombit Dey](https://github.com/sombitd)
+
+### Video Submission:
+[Drive Link](https://drive.google.com/open?id=1d2Te67uuXUNkqjz2b3YCmYVUTbkFCApd)
