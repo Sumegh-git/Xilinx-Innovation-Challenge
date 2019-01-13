@@ -1,7 +1,7 @@
 # Xilinx-Innovation-Challenge
 # Team reverse_biased
 
-# AUTOMATED-APPLIANCE SWITCHINGS
+# AUTOMATED-APPLIANCE SWITCHINGS(HOME AUTOMATION)
 This is the code submission and video submission of our proposed project in `Xilinx Innovation Challenge` during Kshitij,2019 at IIT Kharagpur.
 
 ### Code Requirements:
