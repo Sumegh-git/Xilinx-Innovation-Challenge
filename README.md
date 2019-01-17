@@ -7,7 +7,8 @@ This is the code submission and video submission of our proposed project in `Xil
 ### Code Requirements:
 1) OpenCV 2 or 3
 2) Python 3.6
-3) PYNQ-Z2 board - for hardware implementation and the computational unit. Also accelerates many functions of the code hence ensuring better FPS ,thus allowing for real-time application.
+3) PYNQ-Z2 board - for hardware implementation and the computational unit. Also accelerates many functions of the code hence ensuring better FPS ,thus allowing for real-time application
+4) USB WebCam(Logitech used here)
 
 ### Description:
 This project uses OpenCV Python library to take in video-frames and process them , to detect the Hand-Gesture shown by the user
