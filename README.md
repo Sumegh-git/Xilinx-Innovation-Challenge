@@ -24,7 +24,7 @@ we perform Contour Detection and apply Convex Hull algorithm to determine the co
 Execute `handgesture.py`(on PC) or `gesture.py`(on Board) and for the first 2 seconds keep the webcam faced towards a fixed background maybe a wall or something.
 Once the working code has displayed `Background Captured!` then you can move on to bring your hand in front of the webcam , and the code will
 process the image displaying the number of fingers shown.
-![screenshot](https://user-images.githubusercontent.com/37297147/51327962-5da5aa00-1a98-11e9-9658-b4beb5d7fad8.png)
+![](images/simplescreenrecorder-2019-01-13_06.05.45.gif)
 ![](images/screenshot.png)
 ### Contributors:
 ##### 1) [Sumegh Roychowdhury](https://github.com/Sumegh-git/)
